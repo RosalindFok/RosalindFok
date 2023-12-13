@@ -19,7 +19,7 @@ Bachelor of Engineering(computer science and technology): School of Computer Sci
 Master of Philosophy(computer science and technology): Center for Biomedical Information Technology, Institute of Advanced Computing and Digital Engineering, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. I was advised by [Yunpeng Cai](https://szs.siat.ac.cn/#/detail?item=%5Bobject%20Object%5D&list=%5Bobject%20Object%5D&contentId=199)
 
 #### Current Interests
-Encoding and Decoding for higher cognitive function of human's brain.
+Encoding and Decoding for higher cognitive function of human's brain.<br>
 Incomplete understanding of the pathophysiology of mental disorders. 
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosalindFok&show_icons=true&theme=radical)
