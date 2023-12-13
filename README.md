@@ -1,4 +1,4 @@
-### Hi there 👋
+### Rosalind Fok
 
 <!--
 **RosalindFok/RosalindFok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosalindFok)
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens&show_icons=true&theme=radical)
+
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosalindFok&show_icons=true&theme=radical)
