@@ -20,7 +20,8 @@ Master of Philosophy(computer science and technology): Center for Biomedical Inf
 
 #### Current Interests
 Encoding and Decoding for higher cognitive function of human's brain.<br>
-Incomplete understanding of the pathophysiology of mental disorders. 
+Incomplete understanding of the pathophysiology of mental disorders.<br> 
+Graph Embedding and Geometry Learning.
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosalindFok&show_icons=true&theme=radical)
 ![Rosalind Fok's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=RosalindFok&show_icons=true&count_private=true&theme=gotham)
