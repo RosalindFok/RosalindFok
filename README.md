@@ -27,7 +27,7 @@ Graph Embedding and Geometry Learning.
 
 #### Blogs
 [人工智能赋能自然科学(AI for Science, AI4Sci)的科研方法杂谈](https://zhuanlan.zhihu.com/p/651310815)<br>
-
+[数字图像处理中的二维离散傅里叶变换的性质](https://zhuanlan.zhihu.com/p/675724072)<br>
 
 #### Published
 
