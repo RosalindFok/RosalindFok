@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Rainbow Flag](./rainbow.png)
+
 #### Education
 Bachelor of Engineering(computer science and technology): School of Computer Science and Technology, University of Chinese Academy of Sciences. My thesis was advised by [Beihong Jin](http://work.iscas.ac.cn/index.php/Jinbeihong/index/index)<br>
 Master of Philosophy(computer science and technology): Center for Biomedical Information Technology, Institute of Advanced Computing and Digital Engineering, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. I was advised by [Yunpeng Cai](https://szs.siat.ac.cn/#/detail?item=%5Bobject%20Object%5D&list=%5Bobject%20Object%5D&contentId=199)
