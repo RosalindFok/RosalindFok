@@ -22,6 +22,7 @@ Master of Philosophy(computer science and technology): Center for Biomedical Inf
 
 
 #### Current Interests
+AI4Science
 Encoding and Decoding for higher cognitive function of human's brain.<br>
 Incomplete understanding of the pathophysiology of mental disorders.<br> 
 Graph Embedding and Geometry Learning.
