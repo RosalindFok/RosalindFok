@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Rainbow Flag](./rainbow.png)
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosalindFok&show_icons=true&theme=radical)
+![Rosalind Fok's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=RosalindFok&show_icons=true&count_private=true&theme=gotham)
 
 #### Education
 Bachelor of Engineering(computer science and technology): School of Computer Science and Technology, University of Chinese Academy of Sciences. My thesis was advised by [Beihong Jin](http://work.iscas.ac.cn/index.php/Jinbeihong/index/index)<br>
@@ -43,6 +44,3 @@ Graph Embedding and Geometry Learning.
 
 **Link:** https://www.zjujournals.com/eng/CN/Y2024/V58/I6/1142
 
-
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosalindFok&show_icons=true&theme=radical)
-![Rosalind Fok's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=RosalindFok&show_icons=true&count_private=true&theme=gotham)
