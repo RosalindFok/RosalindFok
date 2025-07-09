@@ -38,9 +38,5 @@ Graph Embedding and Geometry Learning.
 
 **Code:** https://github.com/RosalindFok/MMa4CTR
 
-**Abstract:** A multi-modal augmented model for click through rate (MMa4CTR) tailored for micro-videos recommendation was proposed. Multi-modal data derived from user interactions with micro-videos were effectively leveraged to construct embedded user representations and capture diverse user interests across multi-modal. The aim was to reveal the latent semantic commonalities, by combining and crossing features across modalities. The overall recommendation performance was boosted via two training strategies, automatic learning rate adjustment and validation interruption. A computationally efficient multi-layer perceptron architecture was employed, in order to address the computational demands brought on by the vast amount of multi-modal data. Performance comparison experiments and sensitivity analyses of hyperparameter on WeChat Video Channel and TikTok datasets demonstrated that MMa4CTR outperformed baseline models, delivering superior recommendation results with minimal computational resources. Additionally, ablation studies performed on both datasets further validated the significance and efficacy of the micro-video modality cross module, the user multi-modal embedding layer, and the strategies for automatic learning rate adjustment and validation interruption in enhancing recommendation performance.
-
-**Key words:** recommender system,    click through rate,    multi modal,    micro-video,    machine learning
-
 **Link:** https://www.zjujournals.com/eng/CN/Y2024/V58/I6/1142
 
