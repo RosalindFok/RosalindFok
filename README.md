@@ -19,19 +19,13 @@ Here are some ideas to get you started:
 
 #### Education
 Bachelor of Engineering(computer science and technology): School of Computer Science and Technology, University of Chinese Academy of Sciences. My thesis was advised by [Beihong Jin](http://work.iscas.ac.cn/index.php/Jinbeihong/index/index)<br>
-Master of Philosophy(computer science and technology): Center for Biomedical Information Technology, Institute of Advanced Computing and Digital Engineering, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. I was advised by [Yunpeng Cai](https://szs.siat.ac.cn/#/detail?item=%5Bobject%20Object%5D&list=%5Bobject%20Object%5D&contentId=199)
+Master of Philosophy(computer science and technology): Center for Biomedical Information Technology, Institute of Advanced Computing and Digital Engineering, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. I was advised by [Yunpeng Cai](https://www.suat-sz.edu.cn/info/1168/2054.htm)
 
 
 #### Current Interests
-AI4Science
-Encoding and Decoding for higher cognitive function of human's brain.<br>
-Incomplete understanding of the pathophysiology of mental disorders.<br> 
-Graph Embedding and Geometry Learning.
-
-
-#### Blogs
-[人工智能赋能自然科学(AI for Science, AI4Sci)的科研方法杂谈](https://zhuanlan.zhihu.com/p/651310815)<br>
-[数字图像处理中的二维离散傅里叶变换的性质](https://zhuanlan.zhihu.com/p/675724072)<br>
+AI4Science, Neuroscience. <br>
+Incomplete understanding of the pathophysiology of mental disorders and higher cognitive function of human's brain.<br> 
+Explainable Machine Learning, Graph Embedding, Geometry Learning, Diffusion Models, Riemannian Deep Learning.
 
 #### Published
 [1] Yufu HUO,Beihong JIN,Zhaoyi LIAO. Multi-modal information augmented model for micro-video recommendation. Journal of ZheJiang University (Engineering Science), 2024, 58(6): 1142-1152.
