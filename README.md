@@ -37,7 +37,7 @@ AI for senior care, AI for pet economy
 
 **Code:** https://github.com/RosalindFok/MGD4D
 
-**Link:** coming soon
+**Link:** https://doi.org/10.1007/978-981-95-5634-2_20
 
 [3] HIS 2025
 
