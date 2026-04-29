@@ -43,4 +43,4 @@ AI for senior care, AI for pet economy
 
 **Code:** https://github.com/RosalindFok/DiT-Dep
 
-**Link:** coming soon
+**Link:** https://doi.org/10.1007/978-981-95-6304-3_4
